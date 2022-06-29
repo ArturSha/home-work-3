@@ -1,36 +1,34 @@
 body {
-font-family: 'Oswald', sans-serif;
-font-size: 1.5rem;
+  font-family: "Oswald", sans-serif;
+  font-size: 1.5rem;
 }
 
-
 table {
-    border: 1px solid black;
-    width: 25%;
-    text-align: left;
-    color: white;
-    background: rgb(117, 23, 23);
-    border-collapse: collapse;
+  border: 1px solid black;
+  width: 25%;
+  text-align: left;
+  color: white;
+  background: rgb(117, 23, 23);
+  border-collapse: collapse;
 }
 
 td {
-    border: 1px solid black;
-    
+  border: 1px solid black;
 }
 
 th {
-    text-align: center ;
-    border: 1px solid black;
-    background: rgb(69, 11, 53);
+  text-align: center;
+  border: 1px solid black;
+  background: rgb(69, 11, 53);
 }
 .he {
-    color: blue;
+  color: blue;
 }
 
 .she {
-    color: rgb(224, 28, 149);
+  color: rgb(224, 28, 149);
 }
 
 .it {
-    color: gold;
+  color: gold;
 }
